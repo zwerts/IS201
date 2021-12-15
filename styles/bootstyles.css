@@ -1,0 +1,46 @@
+.centertext{
+    text-align: center;
+}
+
+.nav{
+    width: auto;
+    height: 85px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #c9c9c9;
+}
+
+body{
+
+    background-image: url('../images/tabback.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;;
+    opacity: 0.95;
+}
+
+.tab{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    background-color: #c9c9c9;
+    margin: auto;
+}
+
+.foot{
+    width: auto;
+    height: 65px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    background-color: grey;
+}
+
+.linkc{
+    color: blue;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}

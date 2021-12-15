@@ -1,0 +1,28 @@
+.fancy{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.boldplus{
+    text-decoration: underline;
+    font-weight: bold;
+    color:  rgb(6, 6, 48);
+}
+
+.justit{
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+  }
+
+.links{
+    color: royalblue;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color:whitesmoke
+}
